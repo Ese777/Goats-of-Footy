@@ -24,8 +24,9 @@ img {
 }
 
 hr {
-    background-color: gold;
-    border-style: none;
-    border-top-style: dashed;
-    width: 30%;
+border-style: none;
+border-top-style: dotted;
+border-color: gold;
+border-width: 6px;
+width: 10%;
 }
